@@ -1,0 +1,73 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.header{
+  
+}
+.white_part{
+    margin: 20px;
+    height: 25px;
+    background: white;
+}
+.header .white_part .heedbook_logo{
+    width: 80%;
+    float: left;
+    color: #1a396d;
+    font-size: 30px;   
+    font-family: Arial, Helvetica, sans-serif; 
+    font-weight: 900;
+}
+.hamburger{
+    float: right;
+    width: 10%;
+}
+
+.main .blue_part{
+    background-color:#1a396d;
+    color: white;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    margin-bottom: 20px;
+    height: 570px;
+
+}
+
+.main .blue_part .main_text{
+    font-size: 32px;
+    width: 70%;
+    text-align: center;
+    padding: 45px;
+    padding-top: 60px;
+}
+
+.main .blue_part .pre_text, .first_text, .second_text, .third_text{
+    font-weight: 100;
+    font-size: 14px;
+    padding-right: 20px;
+    padding-left: 30px;
+    padding-bottom: 5px;
+    text-align: center;
+    line-height: 20px;
+}
+
+.main .blue_part .pre_text{
+    text-align: center;
+    padding: 20px;
+    margin-bottom: 30px;
+}
+.main .white_part_main .main_h1{
+    font-size: 30px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    padding-top: 20px;
+    padding-left: 45px;
+    margin-bottom: 20px;
+}
+
+.main .white_part_main .main_text_h1{
+    text-align: center;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 15px;
+    font-weight: 200;
+    padding-left: 18px;
+}
